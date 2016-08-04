@@ -1,0 +1,25 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "24.0.1"
+
+    defaultConfig {
+        applicationId "com.baidu.mobstat.demo"
+        minSdkVersion 11
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.jayway.android.robotium:robotium-solo:5.1'
+    compile files('libs/Baidu_Mtj_3.7.4.2.jar')
+}

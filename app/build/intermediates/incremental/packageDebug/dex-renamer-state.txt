@@ -1,0 +1,7 @@
+#Thu Aug 04 10:09:21 CST 2016
+base.0=E\:\\Ade-project\\baidu_stat_demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_87d0a6d73cc2e236129d6cf32fce661f0dd90968
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Ade-project\\baidu_stat_demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_11f5d647f43ba9ac10028495d7052a2eec65a0ac\\classes.dex
+base.1=E\:\\Ade-project\\baidu_stat_demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_11f5d647f43ba9ac10028495d7052a2eec65a0ac
+file.0=E\:\\Ade-project\\baidu_stat_demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_87d0a6d73cc2e236129d6cf32fce661f0dd90968\\classes.dex

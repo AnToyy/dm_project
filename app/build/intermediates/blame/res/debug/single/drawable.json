@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Ade-project\\baidu_stat_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\Ade-project\\baidu_stat_demo\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\Ade-project\\baidu_stat_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\empty_star.png",
+        "source": "E:\\Ade-project\\baidu_stat_demo\\app\\src\\main\\res\\drawable\\empty_star.png"
+    },
+    {
+        "merged": "E:\\Ade-project\\baidu_stat_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fill_star.png",
+        "source": "E:\\Ade-project\\baidu_stat_demo\\app\\src\\main\\res\\drawable\\fill_star.png"
+    }
+]

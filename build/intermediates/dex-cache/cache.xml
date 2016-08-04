@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Ade-project\baidu_stat_demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="0e0fbaae38fbfd004fdc2616e585038d1129f56d">
+        <dex dex="E:\Ade-project\baidu_stat_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_87d0a6d73cc2e236129d6cf32fce661f0dd90968\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Ade-project\baidu_stat_demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="baa125aea72717a5d9adbc439c7b138eb2d81024">
+        <dex dex="E:\Ade-project\baidu_stat_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_11f5d647f43ba9ac10028495d7052a2eec65a0ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\AppData\Local\android\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Ade-project\baidu_stat_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_eaf6668fea702cabb0d21bd22543e4cdb20a1f4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Ade-project\baidu_stat_demo\app\libs\Baidu_Mtj_3.7.4.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="7b29192b04577242a3a742d329743b1d5baf3c64">
+        <dex dex="E:\Ade-project\baidu_stat_demo\app\build\intermediates\transforms\dex\debug\folders\1000\2\Baidu_Mtj_3.7.4.2_ea36b788fd107c9aec59f43ae0bd77abdcc241ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Ade-project\baidu_stat_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Ade-project\baidu_stat_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_9a300bc74c43afa857b499e48785c0a9b39f1a41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Ade-project\baidu_stat_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Ade-project\baidu_stat_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_3c327c3f7fa30601ab24da03b3044fb98c1c986c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ade\.gradle\caches\modules-2\files-2.1\com.jayway.android.robotium\robotium-solo\5.1\5ff4001bfb640635cf35737c112c34bfea30b0c1\robotium-solo-5.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="5ff4001bfb640635cf35737c112c34bfea30b0c1">
+        <dex dex="E:\Ade-project\baidu_stat_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\robotium-solo-5.1_777dd468928ffb3602ec30855df14322eed21adf\classes.dex" />
+    </item>
+
+</items>

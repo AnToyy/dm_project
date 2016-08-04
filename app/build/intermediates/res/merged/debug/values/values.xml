@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="com.baidustat.BorderTextView"/>
+    <declare-styleable name="com.baidustat.StarRankView"/>
+    <string name="app_name">百度移动统计示例</string>
+</resources>
